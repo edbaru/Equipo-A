@@ -1,2 +1,8 @@
 # Equipo-A
-Creado por Eduardo
+Repositorio creado por Eduardo
+
+Juego: 
+
+Equipo: 
+
+Como colaborar: 
