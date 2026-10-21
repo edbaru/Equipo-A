@@ -6,3 +6,7 @@ Juego: The Timegeon, un juego donde cada uno de los protagonistas buscar alcanza
 Equipo: Antonio, Alejandro, Sergio, Rafa, Eduardo
 
 Como colaborar: Cada uno iremos nos encargaremos de algo diferente segun nuestra especialidad e iremos coordinando lo que nos falta con un canal de mensajeria de discord
+
+<img width="800" height="1460" alt="image" src="https://github.com/user-attachments/assets/8c3c743c-3c5b-467f-9269-21c329d92256" />
+
+<img width="940" height="215" alt="image" src="https://github.com/user-attachments/assets/b7fa450e-e423-4f36-a575-8e2a945b4f7a" />
